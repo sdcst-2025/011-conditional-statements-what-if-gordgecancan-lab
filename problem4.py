@@ -33,3 +33,6 @@ that is an obtuse triangle
 
 
 """
+a = round(float(input("Enter a number: ")),1)
+b = round(float(input("Enter a number: ")),1)
+c = round(float(input("Enter a number: ")),1)

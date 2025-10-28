@@ -12,3 +12,9 @@
 # Outputs:
 # "the number is even"
 # "the number is odd"
+import math
+num = int(input ("Enter a number: "))
+if num % 2 == 0:
+    print ("The number is even.")
+else:
+    print ("The number is odd.")

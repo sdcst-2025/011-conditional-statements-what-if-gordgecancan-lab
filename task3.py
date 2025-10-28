@@ -31,3 +31,13 @@ Enter a number: 10000
 
 
 """
+
+num = int(input("Enter a number: "))
+if num  > 999:
+    print ("3")
+elif num > 99:
+    print ("2")
+elif num > 9:
+    print ("1")
+elif num > -1:
+    print ("0")
